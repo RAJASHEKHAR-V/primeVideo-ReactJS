@@ -1,0 +1,21 @@
+.prime-video-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.prime-image {
+  height: 40vh;
+  width: 100%;
+}
+
+.movie-container {
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.action-movie-heading,
+.comedy-movie-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 700;
+}
